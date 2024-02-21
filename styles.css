@@ -12,6 +12,15 @@ nav {
     height: 100px;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: brown;
+}
+
 li {
     list-style: none;
     font-family: Epilogue;
