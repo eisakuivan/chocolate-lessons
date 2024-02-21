@@ -40,7 +40,7 @@ li {
     text-wrap: nowrap;
 }
 
-.menu-items li:nth-last-of-type(3) {
+.menu-items a:nth-last-of-type(3) {
     flex-grow: 4;
 }
 
